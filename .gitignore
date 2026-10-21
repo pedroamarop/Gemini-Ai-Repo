@@ -1,4 +1,14 @@
+# Ambiente virtual
 .venv/
+venv/
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+
+# Segredos
 .env
+
+# macOS
+.DS_Store
