@@ -1,11 +1,14 @@
 import os
 import sys
-
+from dotenv import load_dotenv
 from google import genai
+import getpass
+from langchain_community.document_loaders import PyPDFLoader
 
+documento = PyPDFLoader
 api_key = os.environ.get("GEMINI_API_KEY")
 if not api_key:
-    sys.exit("Defina GEMINI_API_KEY antes de rodar (veja o .env.example).")
+    api_key = getpass.getpass()
 
 client = genai.Client(api_key=api_key)
 
