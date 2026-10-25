@@ -3,12 +3,15 @@ import sys
 from dotenv import load_dotenv
 from google import genai
 import getpass
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import TextLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-documento = PyPDFLoader
+load_dotenv()
+
+documento = TextLoader("documents/01_manual_colaborador_nebula.txt").load()
 api_key = os.environ.get("GEMINI_API_KEY")
 if not api_key:
-    api_key = getpass.getpass()
+    api_key = getpass.getpass("GEMINI_API_KEY: ")
 
 client = genai.Client(api_key=api_key)
 

@@ -1,0 +1,108 @@
+ Manual do Colaborador — Nébula Tecnologia Ltda.
+Versão 4.2 — vigente a partir de 1º de março de 2026. Aprovado pela diretoria de Pessoas & Cultura, sob
+responsabilidade de Mariana Oliveira Teixeira (Diretora de Pessoas).
+1. Sobre a empresa
+A Nébula Tecnologia Ltda. foi fundada em 12 de agosto de 2014, em Campinas (SP), pelos sócios Rafael
+Kuroda e Beatriz Almeida Prado. A empresa desenvolve soluções de software para gestão logística,
+sendo seu principal produto a plataforma RotaZen, utilizada por mais de 1.300 transportadoras no Brasil,
+Chile e Uruguai. Em 2026 a Nébula conta com 412 colaboradores, distribuídos entre a sede em
+Campinas, o escritório de Recife (aberto em 2021) e o escritório de Montevidéu (aberto em 2024).
+Missão: simplificar o transporte de cargas na América Latina. Valores: transparência radical, autonomia
+com responsabilidade, aprendizado contínuo e foco no cliente.
+2. Jornada de trabalho
+A jornada padrão é de 40 horas semanais, de segunda a sexta-feira. A Nébula adota horário flexível com
+janela núcleo das 10h às 16h, período em que todos devem estar disponíveis para reuniões. Fora da
+janela núcleo, cada colaborador organiza seu horário com o gestor direto.
+O registro de ponto é feito pelo aplicativo PontoNébula. Horas extras precisam de aprovação prévia do
+gestor e são compensadas via banco de horas, com validade de 6 meses. Horas não compensadas no
+prazo são pagas com adicional de 50% (dias úteis) ou 100% (domingos e feriados).
+3. Modelo de trabalho híbrido
+Desde 2023 a empresa adota o modelo híbrido 2+3: dois dias presenciais por semana (terças e
+quintas-feiras são os dias preferenciais de encontro do time) e três dias remotos. Colaboradores que
+moram a mais de 100 km de um escritório podem solicitar regime 100% remoto, mediante aprovação do
+diretor da área.
+Para o trabalho remoto, a empresa oferece um auxílio home office de R$ 180,00 mensais, pago junto
+com o salário, além de um kit inicial (cadeira ergonômica, monitor de 27 polegadas e headset) entregue
+na primeira semana de contratação.
+4. Férias
+O colaborador tem direito a 30 dias de férias após cada período aquisitivo de 12 meses. As férias podem
+ser divididas em até três períodos, sendo que um deles não pode ser inferior a 14 dias corridos e os
+demais não podem ser inferiores a 5 dias corridos cada.
+A solicitação deve ser feita no portal Pessoas+ com antecedência mínima de 45 dias. Não é permitido
+iniciar férias nos dois dias que antecedem feriados ou o descanso semanal remunerado.
+Benefício adicional: a cada 5 anos completos de empresa, o colaborador recebe 10 dias extras de
+"férias sabáticas" remuneradas, que devem ser usadas em até 12 meses.
+
+5. Benefícios
+ Benefício
+Valor / Cobertura
+Observações
+Vale-refeição/alimentação
+R$ 1.150,00/mês
+Cartão flexível Caju
+Plano de saúde
+Bradesco Saúde — Nacional Flex
+100% custeado para titular; 50% dependentes
+Plano odontológico
+OdontoPrev
+100% custeado (titular e dependentes)
+Seguro de vida
+24x o salário base
+Sem custo ao colaborador
+Auxílio home office
+R$ 180,00/mês
+Pago na folha
+Auxílio educação
+Até R$ 6.000,00/ano
+Cursos, pós e idiomas, com aprovação
+Gympass/Wellhub
+Plano Silver subsidiado
+Colaborador paga R$ 29,90
+Auxílio creche
+R$ 650,00/mês
+Filhos de até 6 anos
+PLR
+Até 2 salários/ano
+Conforme metas anuais
+6. Licenças
+Licença-maternidade: 180 dias (a empresa participa do programa Empresa Cidadã). Licença-paternidade:
+30 dias corridos, acima do mínimo legal. Licença por adoção: mesma duração das licenças
+maternidade/paternidade. Licença por luto (cônjuge, pais ou filhos): 5 dias. Licença para casamento: 5
+dias úteis.
+Day off de aniversário: o colaborador pode folgar no dia do seu aniversário ou em qualquer dia útil do
+mesmo mês.
+7. Avaliação de desempenho
+O ciclo de avaliação é semestral, com fechamentos em junho e dezembro. A avaliação combina
+autoavaliação, avaliação do gestor e feedback de pares (mínimo de 3 pares). As notas vão de 1 a 5.
+Colaboradores com média igual ou superior a 4,2 em dois ciclos consecutivos são elegíveis à promoção.
+Os reajustes por mérito são aplicados na folha de março e de setembro.
+8. Equipamentos e segurança da informação
+Todo colaborador recebe um notebook corporativo (MacBook Pro 14" para times de engenharia e design;
+Dell Latitude 7450 para as demais áreas). O equipamento deve ser devolvido em até 5 dias úteis após o
+desligamento.
+Regras obrigatórias: autenticação em dois fatores em todas as contas; bloqueio de tela após 5 minutos de
+inatividade; proibição de armazenar dados de clientes em dispositivos pessoais. Incidentes de segurança
+devem ser reportados em até 2 horas pelo canal #seguranca-incidentes no Slack ou pelo e-mail
+seguranca@nebula-tech.example.
+9. Código de conduta e canal de ética
+A Nébula possui tolerância zero para assédio moral, assédio sexual e discriminação de qualquer
+natureza. Denúncias podem ser feitas de forma anônima no Canal Clareza, operado por empresa
+terceirizada independente, disponível 24 horas por dia, pelo telefone 0800 555 0142 ou pelo site
+
+clareza.nebula-tech.example. Todas as denúncias são analisadas pelo Comitê de Ética em até 30 dias.
+10. Contatos úteis
+ Assunto
+Responsável
+Canal
+Folha de pagamento
+Equipe DP
+dp@nebula-tech.example
+Benefícios
+Lucas Ferraz
+#beneficios (Slack)
+Suporte de TI
+Help Desk
+Ramal 4040 / #helpdesk
+Pessoas & Cultura
+Mariana O. Teixeira
+pessoas@nebula-tech.example
